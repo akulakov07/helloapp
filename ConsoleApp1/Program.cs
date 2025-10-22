@@ -1,3 +1,19 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
 
-Console.WriteLine("Hello, World!");
+namespace ConsoleApp4;
+internal class Program
+{
+    public static void greetWhite()
+    {
+        Console.WriteLine("hello white");
+    }
+    public static void Main()
+    {
+        Console.WriteLine("hello");
+    }
+
+        
+}
