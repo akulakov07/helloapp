@@ -10,9 +10,10 @@ internal class Program
     {
         Console.WriteLine("hello white");
     }
+    
     public static void Main()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
         
